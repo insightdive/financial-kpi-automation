@@ -144,5 +144,5 @@ This project reflects skills directly applied in **Brand Finance** contexts:
 
 Passionate about combining financial strategy with data tools to drive brand decisions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicole%20Espinoza-blue?style=flat&logo=linkedin)](www.linkedin.com/in/nicole-espinoza-finance)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicole%20Espinoza-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nicole-espinoza-finance)
 [![GitHub](https://img.shields.io/badge/GitHub-insightdive-black?style=flat&logo=github)](https://github.com/insightdive)
