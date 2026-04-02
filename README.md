@@ -1,6 +1,6 @@
 # 📊 Financial KPI Automation
 
-> Python tool that automates financial KPI calculation and reporting — transforms raw data into formatted Excel reports. Built for Finance & Brand strategy analysis.
+> Python tool that automates financial KPI calculation and reporting.
 
 ---
 
